@@ -1,0 +1,27 @@
+
+      body
+      {
+        background-color: #eaf6f6 ;
+      }
+      hr
+      {
+        width: 5%;
+        align-self: center;
+        border-style: none;
+        border-top-style: dotted ;
+        border-color: grey ;
+        border-width: 5px;
+      }
+      img
+      {
+        width:254px;
+        height:254px;
+      }
+      h1,h3
+      {
+        color: #66bfbf ;
+      }
+      selecter 
+      {
+        property :value ;
+      }
